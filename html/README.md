@@ -37,11 +37,16 @@ Toda a estrutura do parágrafo ```(<p>texto</p>)``` É como se fosse um livro, e
 ### As principais partes do nosso elemento são as seguintes:
 
 - **Tag de abertura**: Consiste no nome do elemento (neste caso, 'capa') envolvido nesses sinais de maior e menor (<>). Isso indica onde o elemento começa a ter efeito.
+<<<<<<< HEAD
 
 - **Tag de fechamento**: É a mesma que a tag de abertura, exceto que inclui uma barra antes do nome do elemento (</>). Isso indica onde o elemento termina. Pelo amor de Odin, se você esquece de adicionar essa tag de fechamento (é um erro bem comum no início, aliás) pode acabar em um erro de syntax. Então se lembre sempre de fechar as tags.
 
 - **Conteúdo**: O nome já diz, certo? É o conteúdo do elemento, que, neste caso, está vazio. Mas se voltar lá na imagem do parágrafo ```(<p>)```, perceberá que existe apenas um texto: "Meu gato é um deus egípcio" - este é o conteúdo da sua tag.
 
+=======
+- **Tag de fechamento**: É a mesma que a tag de abertura, exceto que inclui uma barra antes do nome do elemento (</>). Isso indica onde o elemento termina. Pelo amor de Odin, se você esquece de adicionar essa tag de fechamento (é um erro bem comum no início, aliás) pode acabar em um erro de syntax. Então se lembre sempre de fechar as tags.
+- **Conteúdo**: O nome já diz, certo? É o conteúdo do elemento, que, neste caso, está vazio. Mas se voltar lá na imagem do parágrafo ```(<p>)```, perceberá que existe apenas um texto: "Meu gato é um deus egípcio" - este é o conteúdo da sua tag.
+>>>>>>> b5d4b71cc13179ec516fce2e00454ca213a4afa1
 - **Elemento**: A tag de abertura, a tag de fechamento e o conteúdo juntos constituem o elemento, simples assim.
 
 Certo, então voltando ao exemplo do livro, dentro da capa existem páginas que iniciam e terminam, correto? E Normalmente não temos apenas uma página, temos várias delas.
@@ -58,7 +63,12 @@ Note que não consigo deixar uma dessas páginas ```(<page></page>)``` independe
 
 ### Anatomia de um documento HTML
 
+<<<<<<< HEAD
 Toda vez que iniciamos um documento HTML, precisamos especificar para o navegador qual é o tipo do documento que estamos criando para que seja devidamente interpretado por ele. Portanto, todo o documento HTML inicia com: ```<!DOCTYPE html>```, É obrigatório. Uma breve história sobre: Lá por volta de 1991/92, quando o HTML era apenas um bebê, os doctypes atuavam como links (conexões) para um conjunto de regras que essas páginas tinham que seguir para ser consideradas um bom HTML, mas hoje são basicamente necessários para garantir que seu documento se comporte corretamente. 
+=======
+Toda vez que iniciamos um documento HTML, precisamos especificar para o navegador qual é o tipo do documento que estamos criando para que seja devidamente interpretado por ele. Portanto, todo o documento HTML inicia com: 
+- ```<!DOCTYPE html>```, É obrigatório. Uma breve história sobre: Lá por volta de 1991/92, quando o HTML era apenas um bebê, os doctypes atuavam como links (conexões) para um conjunto de regras que essas páginas tinham que seguir para ser consideradas um bom HTML, mas hoje são basicamente necessários para garantir que seu documento se comporte corretamente. 
+>>>>>>> b5d4b71cc13179ec516fce2e00454ca213a4afa1
 
 Em seguida, para o navegador poder ler e interpretar os elementos do html, precisamos colocar as tags: ```<html></html>```, essa tag age como a "raíz" do nosso documento. Eu sei o que está pensando e já lhe respondo que sim, podemos escrever códigos CSS e JavaScript dentro do próprio documento HTML, mas já adianto que passamos de 2005 há muito tempo e hoje temos recursos que melhoram a leitura de um código, pois fazer isso não é uma boa prática de desenvolvimento. Estas precisam ser escritas em documentos separados e importados nas metadatas e script do documento HTML. Não se preocupe, especificarei sobre isso depois. 
 
