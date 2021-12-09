@@ -2,12 +2,12 @@
 
 Olá, sou Bianca e sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, também estudo UI/UX como extensão do meu curso. Atualmente sou estagiária Front-End na empresa Avenue Code há pouco mais de 8 meses, que foi quando iniciei a minha transição de carreira. Tenho um projeto voluntário chamado [O Leitura de Bolso](https://www.leituradebolso.com.br/) que nasceu para democratizar a literatura no Brasil. No nosso projeto, as pessoas podem ler livros que estão em domínio público pelo telegram.
 
-[Twitter](https://twitter.com/biancaenrose) | [Linkedin](https://www.linkedin.com/in/ramalhobianca/) | [Github](https://github.com/biancaramalho) | [Twitch](https://www.twitch.tv/biancaenrose) | [Instagram](https://www.instagram.com/biancaenrose/) 
+[Twitter](https://twitter.com/biancaenrose) | [Linkedin](https://www.linkedin.com/in/ramalhobianca/) | [Twitch](https://www.twitch.tv/biancaenrose) | [Instagram](https://www.instagram.com/biancaenrose/) 
 
-O motivo de eu criar esse documento é para registrar minha evolução na aprendizagem de tecnologias as quais estou trabalhando. Então, sem mais delongas, vamos começar?!
+O motivo de eu criar esse documento é para registrar minha evolução na aprendizagem de tecnologias as quais estou trabalhando e, talvez, ajudar quem precisa.
 
 ### Sobre HTML
-Então **HTML (HyperText Markup Language)** é uma linguagem de marcação que permite ser lida por algo (não necessariamente os navegadores, mas na maioria dos casos eles são os que mais leem). Disecando o significado de cada palavra: 
+Conhecido também como **HTML (HyperText Markup Language)** é uma linguagem de marcação que permite ser lida por algo (não necessariamente os navegadores, mas na maioria dos casos eles são os que mais leem). Disecando o significado de cada palavra: 
 
 *"Hipertext"* refere-se a links que conectam páginas umas às outras, dentro de um único site ou entre eles. Os navegadores as interpretam para que sua aplicação seja exibida na tela e por isso é uma linguagem de marcação, mas não é de programação.
 
@@ -19,7 +19,7 @@ O **HTML5** é a versão mais recente do HTML e sua função é dizer ao navegad
 
 Ok, eu sei que o HTML parece ser tedioso mas é muito necessário e importante passarmos por todas as etapas de aprendizado para ficar craque na construção de projetos.
 
-![Apple só com HTML imagem](./screenshot/apple-html.png)
+![Apple só com HTML imagem](./html/screenshot/apple-html.png)
 
 ### Anatomia do HTML
 
