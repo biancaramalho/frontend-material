@@ -2,9 +2,9 @@
 
 Olá, sou Bianca e sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, também estudo UI/UX como extensão do meu curso. Atualmente sou estagiária Front-End na empresa Avenue Code há pouco mais de 8 meses, que foi quando iniciei a minha transição de carreira. Tenho um projeto voluntário chamado O [Leitura de Bolso](https://www.leituradebolso.com.br/) que nasceu para democratizar a literatura no Brasil. No nosso projeto, as pessoas podem ler livros que estão em domínio público pelo telegram.
 
-[Twitter](https://twitter.com/biancaenrose) | [Linkedin](https://www.linkedin.com/in/ramalhobianca/) | [Github](https://github.com/biancaramalho) | [Twitch](https://www.twitch.tv/biancaenrose) | [Instagram](https://www.instagram.com/biancaenrose/)
+[Twitter](https://twitter.com/biancaenrose) | [Linkedin](https://www.linkedin.com/in/ramalhobianca/) | [Twitch](https://www.twitch.tv/biancaenrose) | [Instagram](https://www.instagram.com/biancaenrose/)
 
-O motivo de eu criar esse documento é para registrar minha evolução na aprendizagem de tecnologias as quais estou trabalhando. Então, sem mais delongas, vamos começar?!
+O motivo de eu criar esse documento é para registrar minha evolução na aprendizagem de tecnologias as quais estou trabalhando e, talvez, ajudar quem precisa.
 
 ### Sobre CSS
 
@@ -18,7 +18,7 @@ A syntax de CSS é basicamente composta por:
 
 - **Valores**, que é o que queremos atribuir para a propriedade. Como no exemplo abaixo: 
 
-![Estrutura CSS](./img/estrutura-css.png)
+![Estrutura CSS](./screenshot/estrutura-css.png)
 
 Para fazer esse código CSS funcionar, precisamos aplicar o arquivo CSS, que eu tenho certeza que você leu que precisa ser um arquivo separado lá no [HTML](https://github.com/biancaramalho/about-html), né ao documento HTML na tag "head". Caso contrário, o estilo não mudará a aparência do HTML. Ta bom, vou te dar um exemplo mas preste atenção que eu só vou fazer uma vez, hein?!
 
@@ -126,14 +126,14 @@ Para nós que estamos começando, é aconselhável utilizar o [Google Fonts](htt
 
 Geralmente você acha o link correspondente da font do Google Fonts que deseja para adicionar na sua página aqui: 
 
-![Google fonts exemplo](./img/selecione-font.png)
+![Google fonts exemplo](./screenshot/selecione-font.png)
 
 Você clica na fonte desejada, depois vai aparecer uma lista de vários estilos da fonte que você escolheu. Em seguida, seleciona o estilo que deseja inserir em sua página naquele botão com sinal de "+" no canto da página, onde está escrito "+ Select this style". Assim que selecionar os estilos, clica naquele botão do canto direito com três quadrados e um sinal de "+" embaixo, do lado da engrenagem, e abrirá uma seção com todas as informações da fonte, download e enfim, mas o que você irá copiar é este link para embutir a fonte na sua página: 
 
-![Google fonts exemplo de embed](./img/embed.png)
+![Google fonts exemplo de embed](./screenshot/embed.png)
 
 Depois que copiou, irá colar na tag "head" do seu documento HTML. Ficando assim:
 
-![Google exemplo na head](./img/doc-html-ex.png)
+![Google exemplo na head](./screenshot/doc-html-ex.png)
 
 Observe que as tags com os links do Google Fonts estão separadas para facilitar a sua leitura de como tem que ficar. 
