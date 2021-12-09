@@ -19,7 +19,7 @@ O **HTML5** é a versão mais recente do HTML e sua função é dizer ao navegad
 
 Ok, eu sei que o HTML parece ser tedioso mas é muito necessário e importante passarmos por todas as etapas de aprendizado para ficar craque na construção de projetos.
 
-![Apple só com HTML imagem](./html/screenshot/apple-html.png)
+![Apple só com HTML imagem](./html/screenshots/apple-html.png)
 
 ### Anatomia do HTML
 
